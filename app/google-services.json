@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "63267558704",
+    "firebase_url": "https://tgc-d-board.firebaseio.com",
+    "project_id": "tgc-d-board",
+    "storage_bucket": "tgc-d-board.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63267558704:android:b8b64e7e6e833deb8ca4f5",
+        "android_client_info": {
+          "package_name": "com.teamblank.tgcdboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63267558704-af52ooqrridt13ag1gc9bnbet7o7kib6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.teamblank.tgcdboard",
+            "certificate_hash": "5417fcbe17587665144f1ebd84c5d9e379183b54"
+          }
+        },
+        {
+          "client_id": "63267558704-2obm2ddlsvt55aloagrqe9ps64643r5b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASG7lH0PU3SGf6r3HS4e_VXLkXA9pgCX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63267558704-2obm2ddlsvt55aloagrqe9ps64643r5b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

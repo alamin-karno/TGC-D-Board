@@ -1,0 +1,100 @@
+<resources>
+    <string name="app_name">TGC D Board</string>
+    <string name="email">Email</string>
+    <string name="password_6_digit">Password (6 digit)</string>
+    <string name="are_you_teacher_login_here">Are you a admin? <u>Login Here!</u></string>
+    <string name="are_you_student_login_here">Are you student? <u>Click Here!</u></string>
+    <string name="don_t_have_an_account_sign_up_here">Don\'t have an account ? <u>Sign up here !</u></string>
+    <string name="login">Login</string>
+    <string name="user_name">Email Address</string>
+    <string name="already_have_an_account_login_here">Already have an account? <u>Login Here!</u></string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="default_notification_channel_id">Notification</string>
+    <string name="about_me_tgc">Student of Tongi Govt. College \n Department: Chemistry \n Email: alamin.karno786@gmail.com</string>
+    <string name="about_app"><b>TGC D Board</b> is the Official Notice Board App of <b>Tongi Govt. College</b>.
+        This is the first App of <b>Tongi Govt. College.</b> Hope that everybody like the app. If you have any query about this
+        app or any suggestion please feel free to contact with us. </string>
+    <string name="about_developer">About Developer</string>
+    <string name="md_al_amin">Md. Al-Amin</string>
+    <string name="android_developer">Android Developer</string>
+    <string name="about_app1">About App</string>
+    <string name="about">About</string>
+    <string name="student_view">Student View</string>
+    <string name="view_notice">View Notice</string>
+    <string name="view_routine">View Routine</string>
+    <string name="log_out">Log out</string>
+    <string name="admin_view">Admin View</string>
+    <string name="admin_login">Admin Login</string>
+    <string name="icon_made_by_freepik_from_www_flaticon_com">Icon made by Freepik from www.flaticon.com</string>
+
+    <string-array name="facultyList">
+        <item>Choose a  faculty</item>
+        <item>Bachelor of Arts (Honours)</item>
+        <item>Bachelor of Social Science</item>
+        <item>Bachelor of Science</item>
+        <item>Bachelor of Business Studies</item>
+        <item>Bachelor of Life and Earth Science</item>
+    </string-array>
+
+    <string-array name="yearList">
+        <item>Choose a  year</item>
+        <item>Honours 1st Year</item>
+        <item>Honours 2nd Year</item>
+        <item>Honours 3rd Year</item>
+        <item>Honours 4th Year</item>
+    </string-array>
+
+    <string-array name="BA">
+        <item>Choose a  Department</item>
+        <item>Bangla</item>
+        <item>Music Course &amp; Others</item>
+        <item>English</item>
+        <item>Sanskrit</item>
+        <item>Pali</item>
+        <item>Arabic</item>
+        <item>History</item>
+        <item>Philosophy</item>
+        <item>Islamic Studies</item>
+        <item>Islamic History &amp; Culture</item>
+        <item>History</item>
+    </string-array>
+
+    <string-array name="BSS">
+        <item>Choose a  Department</item>
+        <item>Sociology</item>
+        <item>Economy</item>
+        <item>Political Science</item>
+        <item>Social Work</item>
+        <item>Public Administration</item>
+        <item>Anthropology</item>
+        <item>Information Science &amp; Library Management</item>
+        <item>Home Economics</item>
+    </string-array>
+
+    <string-array name="BS">
+        <item>Choose a  Department</item>
+        <item>Chemistry</item>
+        <item>Biochemistry</item>
+        <item>Physics</item>
+        <item>Statistics</item>
+        <item>Mathematics</item>
+    </string-array>
+
+    <string-array name="BBS">
+        <item>Choose a  Department</item>
+        <item>Accounting</item>
+        <item>Management Studies</item>
+        <item>Marketing</item>
+        <item>Banking and Insurance</item>
+    </string-array>
+
+    <string-array name="BLES">
+        <item>Choose a  Department</item>
+        <item>Psychology</item>
+        <item>Zoology</item>
+        <item>Geography &amp; Environment Studies</item>
+        <item>Environmental Science</item>
+        <item>Botany Department</item>
+        <item>Soil Science</item>
+    </string-array>
+</resources>
